@@ -1,0 +1,10 @@
+.fon{
+    background-color: brown;
+    padding-top: 30px;
+}
+.half{
+    background-color: indianred;
+    border: 3px solid wheat;
+    color: white;
+    text-align: center;
+}
